@@ -1,0 +1,8 @@
+.registro{
+	color: #2C314F;
+}
+
+.input-field input[type=text]:focus {
+	border-bottom: 1px solid #942828;
+	box-shadow: 0 1px 0 0 #942828;
+}
